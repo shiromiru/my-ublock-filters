@@ -1,1 +1,3 @@
-# my-ublock-filters
+! これは私のuBlock Originフィルターです
+||example.com^
+||ads.example.net^
