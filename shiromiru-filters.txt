@@ -17,11 +17,6 @@ feedly.com##article:has-text(/日本テレビ/)
 feedly.com##article:has-text(/解散/)
 
 ! ===============================
-! 外部フィルターリスト
-! ===============================
-! https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
-
-! ===============================
 ! アフィリエイト・トラッキング系
 ! ===============================
 ||amazon.*^*tag=*^$document
@@ -162,5 +157,3 @@ feedly.com##article:has-text(/解散/)
 ||ymobile.jp^*tag=*^$document
 ||softbank.jp^*tag=*^$document
 ||tracking.meneki-diet.jp^$document
-
-
