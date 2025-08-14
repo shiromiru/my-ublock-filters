@@ -235,3 +235,4 @@ feedly.com##article:has-text(/解散/)
 ||api.affiliations.site/ad/pixelfile.html$important
 ||affiliations.site^$3p
 ||a.r10.to^
+||japannewsnavi.com^$document
