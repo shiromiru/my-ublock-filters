@@ -1,7 +1,5 @@
 ! Title: UNKNOWN
-! ===============================
-! Feedly 記事内キーワード非表示
-! ===============================
+! 📌記事内キーワード非表示（Feedlyなどで使う）
 feedly.com##article:has-text(/Amazon.com/)
 feedly.com##article:has-text(/フジテレビ/)
 feedly.com##article:has-text(/活動休止/)
@@ -16,26 +14,34 @@ feedly.com##article:has-text(/活動終了/)
 feedly.com##article:has-text(/日本テレビ/)
 feedly.com##article:has-text(/解散/)
 
-! ===============================
-! アフィリエイト・トラッキング系
-! ===============================
+! 🔒Amazon・楽天・Yahoo等のアフィ・トラッキング系
 ||amazon.*^*tag=*^$document
 ||amazon.*^*ascsubtag=*^$document
 ||amazon.*^*ref=*^$document
 ||amazon.*^*utm_*^$document
 ||amazon.*^*linkCode=*^$document
+||amazon.co.jp^*tag=*^$document
+||amazon.co.jp^*ascsubtag=*^$document
+||amazon.co.jp^*ref=*^$document
+||amazon.co.jp^*utm_*^$document
 
 ||rakuten.co.jp^*tag=*^$document
 ||rakuten.co.jp^*scid=*^$document
 ||rakuten.co.jp^*afl=*^$document
 ||rakuten.co.jp^*utm_*^$document
 ||rakuten.co.jp^*vcpt=*^$document
+||rakuten.ne.jp^*ref=*^$document
 
 ||yahoo.co.jp^*ad_id=*^$document
 ||yahoo.co.jp^*utm_*^$document
 ||yahoo.co.jp^*affiliate=*^$document
-||yahoo.co.jp^*aff_id=*^$document
+||yahoo.co.jp^*vc_url=*^$document
+||shopping.yahoo.co.jp^*affiliate=*^$document
+||travel.yahoo.co.jp^*afcd=*^$document
 
+||yodobashi.com^*ad_id=*^$document
+
+! 🔒ASP・アフィリエイトリンク共通
 ||a8.net^$document
 ||afb.ne.jp^$document
 ||valuecommerce.ne.jp^$document
@@ -47,66 +53,60 @@ feedly.com##article:has-text(/解散/)
 ||impactradius.com^$document
 ||r10.to^$document
 
+! 🔒utmなどのトラッキングパラメータ
+||*^*utm_source=*^$document
+||*^*utm_medium=*^$document
+||*^*utm_campaign=*^$document
+||*^*utm_term=*^$document
+||*^*utm_content=*^$document
 ||*^*fbclid=*^$document
 ||*^*gclid=*^$document
 ||*^*yclid=*^$document
 ||*^*mc_eid=*^$document
+||*^*ref=*^$document
 
-! ===============================
-! 特定サイト・怪しい広告ブロック
-! ===============================
+! 🚫特定サイトのドメインブロック（広告・中華・ペイ系）
 ||sb-perlepa.ourpage.jp^
 ||health.docomo.ne.jp^
-||paypay.*^
+||paypay.ne.jp^
+||paypay-bank.co.jp^
+||paypay-card.co.jp^
+||paypay-insurance.co.jp^
+||paypay-sec.co.jp^
+||paypayfleamarket.yahoo.co.jp^
 ||wallet.yahoo.co.jp/paypay^
 ||sub.girlslab-info.net^
 ||sb.dioclinic-diet.com^
 
-||harmonious-cosme.online^
-||*.harmonious-cosme.online^
-
-||cosme-career.click^
-||beauty-official.shop^
-||japan-cosme.center^
-||skin-white.shop^
-||clear-skin.care^
-||shimi-care.jp^
-||cosme-rapid.shop^
-||health-safe.info^
-||promotion-lab.online^
-
-||suntory-kenko.com^
-
-||*rapidbot_hse_tkpn_hklfn_*^
-||*shimi*rapidbot*^
-
-||api.affiliations.site/ad/pixelfile.html$important
-||affiliations.site^$3p
-
-! ===============================
-! 中華スマホ系
-! ===============================
+! 📱中華スマホ関連ドメイン
 ||mi.com^
 ||xiaomi.com^
+||jp.mi.com^
 ||oppo.com^
 ||coloros.com^
 ||oppostyle.jp^
 ||realme.com^
 ||huawei.com^
 ||consumer.huawei.com^
+||consumer.huawei.com/jp^
 ||huawei.jp^
 ||honor.com^
 ||hihonor.com^
-||poco.*^$third-party
+||poco.in^
+||poco.net^
+||po.co^
+||poco.in^$third-party
+||poco.net^$third-party
+||po.co^$third-party
 
-! ===============================
-! 旅行アフィリエイト
-! ===============================
+! 🌍旅行アフィリエイト系のブロック（公式通過、アフィのみ殺す）
 ||hb.afl.rakuten.co.jp^
 ||jalan.net^*aid=*^$document
 ||affiliate.jalan.net^
 ||click.jtb.co.jp^
 ||jtb.co.jp^*utm_*^$document
+||ck.jp.ap.valuecommerce.com^
+||ck.jp.ap.valuecommerce.com/servlet/referral?$document
 ||px.a8.net^
 ||rpx.a8.net^
 ||a8.net^*pageid=*^$document
@@ -118,30 +118,45 @@ feedly.com##article:has-text(/解散/)
 ||klook.com^*aid=*^$document
 ||globalwifi.jp^*ref=*^$document
 ||imotonowifi.jp^*ref=*^$document
+||airbict.com^*aid=*^$document
+||esimdb.com^*ref=*^$document
+||vc.run^
+||h.accesstrade.net^
+||h.fancs.com^
+||prf.hn^
 
-! ===============================
-! フリマ系
-! ===============================
+! 💄 yフリマ（ヤフオク・PayPayフリマなど）
 ||auctions.yahoo.co.jp^$document
 ||paypayfleamarket.yahoo.co.jp^$document
+||page.auctions.yahoo.co.jp^$document
+
+! 💄 メルカリ系
 ||mercari.com^$document
+||jp.mercari.com^$document
 ||mercari-shops.com^$document
 ||mercari.jp^$document
 
-! ===============================
-! 家電量販店
-! ===============================
+! 💄 家電量販店（アフィ系を含む）
+
+! ヨドバシカメラ
 ||yodobashi.com^*affiliate=*^$document
 ||yodobashi.com^*utm_*^$document
+
+! ビックカメラ
 ||biccamera.com^*affiliate=*^$document
 ||biccamera.com^*utm_*^$document
+
+! ノジマ
 ||nojima.co.jp^*ad=*^$document
+
+! ヤマダ電機
 ||yamada-denki.jp^*ad=*^$document
+
+! ケーズデンキ（アフィ少ないけど一応）
 ||ksdenki.com^*ad=*^$document
 
-! ===============================
-! ドコモ・ソフトバンク・Y!mobile 系
-! ===============================
+! 🔒ドコモ系アフィリエイト・トラッキング系
+
 ||nttdocomo.*^*ad_id=*^$document
 ||nttdocomo.*^*utm_*^$document
 ||nttdocomo.*^*affiliate=*^$document
@@ -150,10 +165,73 @@ feedly.com##article:has-text(/解散/)
 ||dmarket.docomo.ne.jp^*affiliate=*^$document
 ||dshopping.docomo.ne.jp^*ad_id=*^$document
 ||dshopping.docomo.ne.jp^*utm_*^$document
+||dmenu.jp^*utm_*^$document
 ||h.accesstrade.net^$third-party
 ||h.afi-b.com^$third-party
 ||r.moshimo.com^$third-party
 
+! Y!mobile・SoftBank系アフィリンクブロック
 ||ymobile.jp^*tag=*^$document
 ||softbank.jp^*tag=*^$document
-||tracking.meneki-diet.jp^$document
+||yahoo.co.jp^*ad_id=*^$document
+||yahoo.co.jp^*aff_id=*^$document
+||yahoo.co.jp^*utm_*^$document
+||yahoo.co.jp^*affiliate=*^$document
+
+||oisix.com^*ad_code=*^$document
+||oisix.com^*utm_*^$document
+||oisix.com^*yclid=*^$document
+||oisix.com^*gclid=*^$document
+||hb.afl.rakuten.co.jp^$domain=oisix.com
+||click.linksynergy.com^$document
+||af.moshimo.com^$document
+||valuecommerce.com^$document
+
+||ad.jp^
+||ad.kc-me.jp^
+||ad.maist.jp^
+||ads.softbank.jp^
+||beauty-tracker.jp^
+||beauty.navi-ad.jp^
+||click.sukkiri-diet.jp^
+||sb-ad.jp^
+||sb-atom-ct.service-info.jp^
+||sb-cwpbk.service-introduction.com^
+||service-info.jp^
+||service-introduction.com^
+||track.softbank.jp^
+||tracking.meneki-diet.jp^
+||trk.beauty-tokyo.jp^
+||trk.datsumou-navi.jp^
+||*.ad.jp^
+||*.beauty-tracker.jp^
+||*.biyou-life.jp^
+||*.diet-sensei.jp^
+||*.mb.softbank.jp^
+||*.service-introduction.com^
+||sb-atom-ct.service-info.jp/ab/*
+
+! 🛡 harmonious-cosme.online 系ブロック
+||harmonious-cosme.online^
+||*.harmonious-cosme.online^
+
+! 💣 よくある詐欺系ドメイン群（任意で追加）
+||cosme-career.click^
+||beauty-official.shop^
+||japan-cosme.center^
+||skin-white.shop^
+||clear-skin.care^
+||shimi-care.jp^
+||cosme-rapid.shop^
+||health-safe.info^
+||promotion-lab.online^
+
+! 🚫 URLに特定の文字列を含む怪しいリダイレクト
+||*rapidbot_hse_tkpn_hklfn_*^
+||*shimi*rapidbot*^
+
+||suntory-kenko.com^
+
+||api.affiliations.site/ad/pixelfile.html$important
+||affiliations.site^$3p
+||a.r10.to^
