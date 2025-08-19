@@ -236,3 +236,11 @@ feedly.com##article:has-text(/解散/)
 ||affiliations.site^$3p
 ||a.r10.to^
 ||japannewsnavi.com^$document
+
+! Block SHEIN
+||shein.com^
+||*.shein.com^
+
+! Block TEMU
+||temu.com^
+||*.temu.com^
