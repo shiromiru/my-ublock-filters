@@ -244,3 +244,24 @@ feedly.com##article:has-text(/解散/)
 ! Block TEMU
 ||temu.com^
 ||*.temu.com^
+
+! 🌐 一般的なディープリンク処理のブロック
+||approach.yahoo.co.jp^
+||app.adjust.com^
+||branch.io^
+||go.onelink.me^
+||deeplink.me^
+||smarturl.it^
+||lnk.to^
+||redir.adgtx.com^
+||click.appsflyer.com^
+||api.branch.io^
+||r.miniapps.cn^
+||play.google.com/store/apps/details^
+||apps.apple.com^
+
+||pp.d2-apps.net^
+||d2-apps.net^
+
+||shufoo.net^
+||appli_gc^
