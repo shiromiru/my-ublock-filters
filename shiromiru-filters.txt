@@ -54,15 +54,7 @@ feedly.com##article:has-text(/解散/)
 ||r10.to^$document
 
 ! 🔒utmなどのトラッキングパラメータ
-||*^*utm_source=*^$document
-||*^*utm_medium=*^$document
-||*^*utm_campaign=*^$document
-||*^*utm_term=*^$document
-||*^*utm_content=*^$document
-||*^*fbclid=*^$document
-||*^*gclid=*^$document
-||*^*yclid=*^$document
-||*^*mc_eid=*^$document
+||*$removeparam=tag
 ||*^*ref=*^$document
 
 ! 🚫特定サイトのドメインブロック（広告・中華・ペイ系）
