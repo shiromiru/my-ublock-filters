@@ -17,13 +17,9 @@ feedly.com##article:has-text(/解散/)
 ! 🔒Amazon・楽天・Yahoo等のアフィ・トラッキング系
 ||amazon.*^*tag=*^$document
 ||amazon.*^*ascsubtag=*^$document
-||amazon.*^*ref=*^$document
-||amazon.*^*utm_*^$document
 ||amazon.*^*linkCode=*^$document
 ||amazon.co.jp^*tag=*^$document
 ||amazon.co.jp^*ascsubtag=*^$document
-||amazon.co.jp^*ref=*^$document
-||amazon.co.jp^*utm_*^$document
 
 ||rakuten.co.jp^*tag=*^$document
 ||rakuten.co.jp^*scid=*^$document
