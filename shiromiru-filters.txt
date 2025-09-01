@@ -18,8 +18,7 @@ feedly.com##article:has-text(/解散/)
 ||amazon.*^*tag=*^$document
 ||amazon.*^*ascsubtag=*^$document
 ||amazon.*^*linkCode=*^$document
-||amazon.co.jp^*tag=*^$document
-||amazon.co.jp^*ascsubtag=*^$document
+
 
 ||rakuten.co.jp^*tag=*^$document
 ||rakuten.co.jp^*scid=*^$document
