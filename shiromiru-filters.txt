@@ -252,3 +252,4 @@ feedly.com##article:has-text(/解散/)
 
 ||shufoo.net^
 ||appli_gc^
+||img.macromill.com/spmyp/index.php$document
