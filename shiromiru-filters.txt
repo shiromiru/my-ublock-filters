@@ -255,6 +255,5 @@ feedly.com##article:has-text(/解散/)
 ||img.macromill.com/spmyp/index.php$document
 
 ||9lick.me^
-||amazon.co.jp/*$query,domain=amazon.co.jp
 
 
