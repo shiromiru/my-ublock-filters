@@ -66,9 +66,9 @@ feedly.com##article:has-text(/解散/)
 ||sb.dioclinic-diet.com^
 
 ! 📱中華スマホ関連ドメイン
-||mi.com^
+||mi.com^$document
 ||xiaomi.com^
-||jp.mi.com^
+||jp.mi.com^$document
 ||oppo.com^
 ||coloros.com^
 ||oppostyle.jp^
