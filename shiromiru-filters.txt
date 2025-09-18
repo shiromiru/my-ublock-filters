@@ -67,21 +67,21 @@ feedly.com##article:has-text(/解散/)
 
 ! 📱中華スマホ関連ドメイン
 ||mi.com^$document
-||xiaomi.com^
+||xiaomi.com^$document
 ||jp.mi.com^$document
-||oppo.com^
-||coloros.com^
-||oppostyle.jp^
-||realme.com^
-||huawei.com^
-||consumer.huawei.com^
-||consumer.huawei.com/jp^
-||huawei.jp^
-||honor.com^
-||hihonor.com^
-||poco.in^
-||poco.net^
-||po.co^
+||oppo.com^$document
+||coloros.com^$document
+||oppostyle.jp^$document
+||realme.com^$document
+||huawei.com^$document
+||consumer.huawei.com^$document
+||consumer.huawei.com/jp^$document
+||huawei.jp^$document
+||honor.com^$document
+||hihonor.com^$document
+||poco.in^$document
+||poco.net^$document
+||po.co^$document
 ||poco.in^$third-party
 ||poco.net^$third-party
 ||po.co^$third-party
