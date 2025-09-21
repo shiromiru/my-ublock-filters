@@ -13,6 +13,7 @@ feedly.com##article:has-text(/アイドルグループ/)
 feedly.com##article:has-text(/活動終了/)
 feedly.com##article:has-text(/日本テレビ/)
 feedly.com##article:has-text(/解散/)
+google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 
 ! 🔒Amazon・楽天・Yahoo等のアフィ・トラッキング系
 ||amazon.*^*tag=*^$document
