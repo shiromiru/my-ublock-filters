@@ -258,3 +258,5 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||9lick.me^$document
 ||splendid.mamacosme-beautyskin.website^$document
 ||juno-faga.com^$document
+||shiga2.jp^$document
+||atom-aga.com^$document
