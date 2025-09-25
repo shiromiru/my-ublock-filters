@@ -264,3 +264,22 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||juno-faga.com^$document
 ||shiga2.jp^$document
 ||atom-aga.com^$document
+
+/* Inoreader 用記事ブロックフィルタ */
+inoreader.com##.entry:has-text(/Amazon.com/)
+inoreader.com##.entry:has-text(/フジテレビ/)
+inoreader.com##.entry:has-text(/活動休止/)
+inoreader.com##.entry:has-text(/芸人/)
+inoreader.com##.entry:has-text(/タレント/)
+inoreader.com##.entry:has-text(/俳優/)
+inoreader.com##.entry:has-text(/女優/)
+inoreader.com##.entry:has-text(/ワイモバイル/)
+inoreader.com##.entry:has-text(/吉本興業/)
+inoreader.com##.entry:has-text(/アイドルグループ/)
+inoreader.com##.entry:has-text(/活動終了/)
+inoreader.com##.entry:has-text(/日本テレビ/)
+inoreader.com##.entry:has-text(/解散/)
+inoreader.com##.entry:has-text(/Xiaomi/)
+inoreader.com##.entry:has-text(/OPPO/)
+inoreader.com##.entry:has-text(/POCO/)
+inoreader.com##.entry:has-text(/HUAWEI/)
