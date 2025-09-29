@@ -265,6 +265,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||shiga2.jp^$document
 ||atom-aga.com^$document
 
+||mineo.jp/syokai/?jrp=syokai&kyb=*^$document
 
 
 ! Inoreader 日本語表示対応フィルタ
