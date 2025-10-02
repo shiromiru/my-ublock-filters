@@ -275,7 +275,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||nhk-book.co.jp^$document
 ||nhk-p.co.jp^$document
 ||nhkso.or.jp^$document
-
+||nhk.jp^$document
 
 ! Inoreader 日本語表示対応フィルタ
 inoreader.com##.entryCard:has-text(/Amazon.com/)
