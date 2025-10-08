@@ -279,6 +279,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||nhk-ed.co.jp^$document
 
 ||nike-skin.site^$document
+||pnv.lpro-bl.com^$document
 
 ! Inoreader 日本語表示対応フィルタ
 inoreader.com##.entryCard:has-text(/Amazon.com/)
