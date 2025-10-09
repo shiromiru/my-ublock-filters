@@ -280,23 +280,5 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 
 ||nike-skin.site^$document
 ||pnv.lpro-bl.com^$document
-
-! Inoreader 日本語表示対応フィルタ
-inoreader.com##.entryCard:has-text(/Amazon.com/)
-inoreader.com##.entryCard:has-text(/フジテレビ/)
-inoreader.com##.entryCard:has-text(/活動休止/)
-inoreader.com##.entryCard:has-text(/芸人/)
-inoreader.com##.entryCard:has-text(/タレント/)
-inoreader.com##.entryCard:has-text(/俳優/)
-inoreader.com##.entryCard:has-text(/女優/)
-inoreader.com##.entryCard:has-text(/ワイモバイル/)
-inoreader.com##.entryCard:has-text(/吉本興業/)
-inoreader.com##.entryCard:has-text(/アイドルグループ/)
-inoreader.com##.entryCard:has-text(/活動終了/)
-inoreader.com##.entryCard:has-text(/日本テレビ/)
-inoreader.com##.entryCard:has-text(/解散/)
-inoreader.com##.entryCard:has-text(/Xiaomi/)
-inoreader.com##.entryCard:has-text(/OPPO/)
-inoreader.com##.entryCard:has-text(/POCO/)
-inoreader.com##.entryCard:has-text(/HUAWEI/)
+||kencellara.com^$document
 
