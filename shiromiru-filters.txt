@@ -282,3 +282,5 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||pnv.lpro-bl.com^$document
 ||kencellara.com^$document
 ||lomore.net^$document
+
+||sb-upme.myown-page.com^$document
