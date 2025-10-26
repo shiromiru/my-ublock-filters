@@ -286,3 +286,11 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||sb-upme.myown-page.com^$document
 ||pcolle.com^*af_id=*$document
 
+||myown-page.com^$document
+||upme.jp^$document
+||admall.jp^$document
+||cosme-offer.jp^$document
+||trk-*.com^$document
+||reward-*.com^$document
+
+
