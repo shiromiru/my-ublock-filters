@@ -284,3 +284,5 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||lomore.net^$document
 ||macromill.lognos.com^$document
 ||sb-upme.myown-page.com^$document
+||pcolle.com^*af_id=*$document
+
