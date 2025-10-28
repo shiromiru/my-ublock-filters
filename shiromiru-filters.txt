@@ -292,5 +292,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||cosme-offer.jp^$document
 ||trk-*.com^$document
 ||reward-*.com^$document
+||doriscosme.online^$document
+
 
 
