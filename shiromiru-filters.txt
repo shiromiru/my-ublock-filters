@@ -293,6 +293,8 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||trk-*.com^$document
 ||reward-*.com^$document
 ||doriscosme.online^$document
+||urania-skin.online^$document
+
 
 
 
