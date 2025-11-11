@@ -295,6 +295,26 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||doriscosme.online^$document
 ||urania-skin.online^$document
 
+||360degreestravelflight.com^$document
+||bestreviewjp.com^$document
+||reviewstyle.net^$document
+||trendranking.jp^$document
+||appranking.best^$document
+||app-lab.info^$document
+||review-ranking.com^$document
+||applinote.com^$document
+||reviewnote.jp^$document
+||matome-app.com^$document
+||affi-note.com^$document
+
+||*-ranking.com^$document
+||*-review.com^$document
+||*-ranking.jp^$document
+||*-review.jp^$document
+||app*-ranking.*^$document
+||app*-review.*^$document
+
+
 
 
 
