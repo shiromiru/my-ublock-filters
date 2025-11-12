@@ -314,9 +314,20 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||app*-ranking.*^$document
 ||app*-review.*^$document
 
+
+! ▼ 通常動画・チャンネル一覧
 youtube.com##ytd-channel-renderer:has-text(はいじぃ迷作劇場)
 youtube.com##ytd-video-renderer:has-text(はいじぃ迷作劇場)
-^$document,domain=youtube.com
+youtube.com##ytd-grid-video-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-rich-grid-media:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-compact-video-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-playlist-video-renderer:has-text(はいじぃ迷作劇場)
+
+! ▼ Shorts用（ショート動画を非表示）
+youtube.com##ytd-reel-item-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-rich-shelf-renderer:has(ytd-reel-shelf-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-rich-section-renderer:has(ytd-reel-shelf-renderer:has-text(はいじぃ迷作劇場)
+
 
 
 
