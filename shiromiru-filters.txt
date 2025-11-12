@@ -314,6 +314,9 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||app*-ranking.*^$document
 ||app*-review.*^$document
 
+youtube.com##ytd-channel-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-video-renderer:has-text(はいじぃ迷作劇場)
+^$document,domain=youtube.com
 
 
 
