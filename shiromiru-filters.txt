@@ -323,12 +323,26 @@ youtube.com##ytd-rich-grid-media:has-text(はいじぃ迷作劇場)
 youtube.com##ytd-compact-video-renderer:has-text(はいじぃ迷作劇場)
 youtube.com##ytd-playlist-video-renderer:has-text(はいじぃ迷作劇場)
 
-! ▼ Shorts用（ショート動画を非表示）
-youtube.com##ytd-reel-item-renderer:has-text(はいじぃ迷作劇場)
-youtube.com##ytd-rich-shelf-renderer:has(ytd-reel-shelf-renderer:has-text(はいじぃ迷作劇場)
-youtube.com##ytd-rich-section-renderer:has(ytd-reel-shelf-renderer:has-text(はいじぃ迷作劇場)
+! --- 🧱 YouTube Shorts 全面非表示ルール（2025年版） ---
 
+! Shortsセクション全体（ホーム・おすすめ）
+youtube.com##ytd-rich-section-renderer:has(ytd-reel-shelf-renderer)
+youtube.com##ytd-rich-shelf-renderer:has(ytd-reel-shelf-renderer)
+youtube.com##ytd-reel-shelf-renderer
 
+! Shorts動画カード（個別のサムネイル）
+youtube.com##ytd-reel-item-renderer
+youtube.com##ytd-rich-grid-media:has(a[href*="/shorts/"])
+youtube.com##ytd-grid-video-renderer:has(a[href*="/shorts/"])
+youtube.com##ytd-video-renderer:has(a[href*="/shorts/"])
 
+! Shorts関連リンク・ボタン
+youtube.com##a[href^="/shorts"]
+youtube.com##ytd-mini-guide-entry-renderer:has(a[href^="/shorts"])
+youtube.com##tp-yt-paper-item:has(a[href^="/shorts"])
 
+! Shortsプレイヤー（再生ページ）
+youtube.com##ytd-reel-player-header-renderer
+youtube.com##ytd-reel-player-overlay-renderer
+youtube.com##ytd-reel-player-reel-header-renderer
 
