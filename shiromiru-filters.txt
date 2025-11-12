@@ -370,6 +370,16 @@ youtube.com##ytd-search-refinement-card-renderer
 youtube.com##ytd-search-refinements-renderer
 youtube.com##ytd-vertical-list-renderer:has-text(関連する検索から)
 
+! --- 特定チャンネル（例：グルメ探偵TV）の動画を全域で非表示 ---
+youtube.com##ytd-video-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-rich-item-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-grid-video-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-playlist-video-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-reel-item-renderer:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-rich-grid-media:has-text(はいじぃ迷作劇場)
+youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
+
+
 
 
 
