@@ -359,4 +359,15 @@ youtube.com##ytd-rich-item-renderer:has(a[href*="list=RD"])
 youtube.com##ytd-playlist-renderer:has-text(Mix)
 youtube.com##ytd-grid-playlist-renderer:has-text(Mix)
 
+! --- ホーム・検索結果のポッドキャスト「○件のエピソード」非表示 ---
+youtube.com##ytd-shelf-renderer:has-text(件のエピソード)
+youtube.com##ytd-rich-shelf-renderer:has-text(件のエピソード)
+youtube.com##ytd-rich-section-renderer:has-text(件のエピソード)
+
+! --- 検索結果「関連する検索から」非表示 ---
+youtube.com##ytd-vertical-list-renderer:has-text(関連する検索から)
+youtube.com##ytd-related-search-renderer
+youtube.com##ytd-search-sub-menu-renderer:has-text(関連する検索から)
+
+
 
