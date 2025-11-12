@@ -364,10 +364,12 @@ youtube.com##ytd-shelf-renderer:has-text(件のエピソード)
 youtube.com##ytd-rich-shelf-renderer:has-text(件のエピソード)
 youtube.com##ytd-rich-section-renderer:has-text(件のエピソード)
 
-! --- 検索結果「関連する検索から」非表示（2025年版） ---
+! --- 検索結果「関連する検索から」非表示（2025年11月対応版） ---
 youtube.com##ytd-related-searches-renderer
 youtube.com##ytd-search-refinement-card-renderer
+youtube.com##ytd-search-refinements-renderer
 youtube.com##ytd-vertical-list-renderer:has-text(関連する検索から)
+
 
 
 
