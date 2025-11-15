@@ -379,6 +379,8 @@ youtube.com##ytd-reel-item-renderer:has-text(はいじぃ迷作劇場)
 youtube.com##ytd-rich-grid-media:has-text(はいじぃ迷作劇場)
 youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 
+||smartnews.com^$document
+||l.smartnews.com^$document
 
 
 
