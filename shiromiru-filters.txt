@@ -382,6 +382,12 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||smartnews.com^$document
 ||l.smartnews.com^$document
 ||sizenshokken.co.jp^$document
+||best.bihada-cosme-kireinahada.online^$document
+||hamadryadcosme.site^$document
+||pteleacosme.site^$document
+||hoconico.com^$document
+||abigail-best.online^$document
+||e-hapi.com^$document
 
 
 
