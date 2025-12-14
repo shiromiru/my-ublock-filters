@@ -388,7 +388,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||hoconico.com^$document
 ||abigail-best.online^$document
 ||e-hapi.com^$document
-
+||18.hannah-best.online^$document
 
 
 
