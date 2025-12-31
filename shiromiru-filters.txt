@@ -397,7 +397,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||food.biglobe.ne.jp^$document
 ||woman.excite.co.jp^$document
 ||lee.hpplus.jp^$document
-
+||nonno.hpplus.jp^$document
 
 
 
