@@ -395,6 +395,9 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||ure.pia.co.jp^$document
 ||costcotuu.com^$document
 ||food.biglobe.ne.jp^$document
+||woman.excite.co.jp^$document
+||lee.hpplus.jp^$document
+
 
 
 
