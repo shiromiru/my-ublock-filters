@@ -408,8 +408,8 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||4yuuu.com/articles/view/30048714^$document
 ||yoyt.jp/archives/6687^$document
 ||monomax.jp/archives/321695^$document
-
-
+||katemita.com^$document
+||ameblo.jp/honeyhoneydip/^$document
 
 
 
