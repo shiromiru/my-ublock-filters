@@ -391,6 +391,8 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||18.hannah-best.online^$document
 ||clean-lifestyle.org^$document
 ||kjkgfgroup.com^$document
+||tokubai.co.jp^$document
+||ure.pia.co.jp^$document
 
 
 
