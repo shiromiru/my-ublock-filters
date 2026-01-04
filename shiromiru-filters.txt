@@ -410,6 +410,8 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||monomax.jp/archives/321695^$document
 ||katemita.com^$document
 ||ameblo.jp/honeyhoneydip/^$document
-
+||jppardoshop.com^$document
+||*-beauty.online^$document
+||cp.manara.jp^$document
 
 
