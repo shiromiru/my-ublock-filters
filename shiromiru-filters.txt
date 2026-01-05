@@ -413,5 +413,17 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||jppardoshop.com^$document
 ||*-beauty.online^$document
 ||cp.manara.jp^$document
+! 個別ドメイン（ページ自体を遮断）
+||8.bologna-beauty.site^$document
+||abcclinicad.com^$document
+||www5.tmn-anshin.co.jp^$document
+
+! 同系統をまとめてブロック（慎重に使用）
+||*beauty.site^$document
+||*clinicad.com^$document
+
+! LP構造・広告用パス名ベース（補助）
+||*/lp/*$document
+||*/landing/*$document
 
 
