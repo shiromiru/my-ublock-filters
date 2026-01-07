@@ -425,5 +425,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ! LP構造・広告用パス名ベース（補助）
 ||*/lp/*$document
 ||*/landing/*$document
+||naitouuu.site^$document
+||*.naitouuu.site^$document
 
 
