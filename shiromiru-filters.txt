@@ -427,5 +427,6 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||*/landing/*$document
 ||naitouuu.site^$document
 ||*.naitouuu.site^$document
+||ziilyzb.com^$document
 
 
