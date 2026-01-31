@@ -1,4 +1,4 @@
-! Title: Sites I want to block personally by UNKNOWN
+! Title: Null Pointer by UNKNOWN
 ! 📌記事内キーワード非表示（Feedlyなどで使う）
 feedly.com##article:has-text(/Amazon.com/)
 feedly.com##article:has-text(/フジテレビ/)
