@@ -152,7 +152,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||nttdocomo.*^*utm_*^$document
 ||nttdocomo.*^*affiliate=*^$document
 ||docomo.ne.jp^*ad_id=*^$document
-||docomo.ne.jp^*utm_*^$document
+
 ||dmarket.docomo.ne.jp^*affiliate=*^$document
 ||dshopping.docomo.ne.jp^*ad_id=*^$document
 ||dshopping.docomo.ne.jp^*utm_*^$document
