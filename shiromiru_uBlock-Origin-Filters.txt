@@ -436,5 +436,5 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||news.ameba.jp^$document
 ||studyhacker.net^$document
 ||news.livedoor.com/article/$document
-
+||mythis.shop^$document
 
