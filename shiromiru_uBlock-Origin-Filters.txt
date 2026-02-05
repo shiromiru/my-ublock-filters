@@ -458,3 +458,11 @@ removeparam=tracking_id
 removeparam=trackingid
 
 ||amazon.co.jp^$removeparam=th,ref,psc,tag,linkCode,creativeASIN,adid,advc,dmai,lpt,argument
+||s8affi.net^$document
+||ziilyzb.com^$document
+||zonrate.com^$document
+*$removeparam=utm_source,utm_medium,utm_campaign,utm_content,utm_id,ttclid,placement,opt_id,lpt,ad_id,adset_id
+||*affi*^$document
+||*affiliate*^$document
+
+
