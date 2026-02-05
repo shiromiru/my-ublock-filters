@@ -20,7 +20,6 @@ feedly.com##article:has-text(/HUAWEI/)
 google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 
 ! 🔒Amazon・楽天・Yahoo等のアフィ・トラッキング系
-||amazon.*^*tag=*^$document
 ||amazon.*^*ascsubtag=*^$document
 ||amazon.*^*linkCode=*^$document
 
@@ -458,3 +457,4 @@ removeparam=referrer
 removeparam=tracking_id
 removeparam=trackingid
 
+||amazon.co.jp^$removeparam=th,ref,psc,tag,linkCode,creativeASIN,adid,advc,dmai,lpt,argument
