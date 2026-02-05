@@ -149,7 +149,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ! 🔒ドコモ系アフィリエイト・トラッキング系
 
 ||nttdocomo.*^*ad_id=*^$document
-||nttdocomo.*^*utm_*^$document
+
 ||nttdocomo.*^*affiliate=*^$document
 ||docomo.ne.jp^*ad_id=*^$document
 
