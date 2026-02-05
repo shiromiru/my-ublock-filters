@@ -465,5 +465,5 @@ removeparam=trackingid
 ||dpoint.docomo.ne.jp^$removeparam=utm_source,utm_medium,utm_campaign,banner_id
 ||*affi*^$document
 ||*affiliate*^$document
-
+||dpoint.docomo.ne.jp^$removeparam=banner_id
 
