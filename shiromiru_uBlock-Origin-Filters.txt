@@ -57,17 +57,14 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||*$removeparam=ref
 
 ! 🚫特定サイトのドメインブロック（広告・中華・ペイ系）
-||sb-perlepa.ourpage.jp^
-||health.docomo.ne.jp^
-||paypay.ne.jp^
-||paypay-bank.co.jp^
-||paypay-card.co.jp^
-||paypay-insurance.co.jp^
-||paypay-sec.co.jp^
-||paypayfleamarket.yahoo.co.jp^
-||wallet.yahoo.co.jp/paypay^
-||sub.girlslab-info.net^
-||sb.dioclinic-diet.com^
+||paypay.ne.jp^$document
+||paypay-bank.co.jp^$document
+||paypay-card.co.jp^$document
+||paypay-insurance.co.jp^$document
+||paypay-sec.co.jp^$document
+||paypayfleamarket.yahoo.co.jp^$document
+||wallet.yahoo.co.jp/paypay^$document
+
 
 ! 📱中華スマホ関連ドメイン
 ||mi.com^$document
@@ -178,78 +175,83 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||af.moshimo.com^$document
 ||valuecommerce.com^$document
 
-||ad.jp^
-||ad.kc-me.jp^
-||ad.maist.jp^
-||ads.softbank.jp^
-||beauty-tracker.jp^
-||beauty.navi-ad.jp^
-||click.sukkiri-diet.jp^
-||sb-ad.jp^
-||sb-atom-ct.service-info.jp^
-||sb-cwpbk.service-introduction.com^
-||service-info.jp^
-||service-introduction.com^
-||track.softbank.jp^
-||tracking.meneki-diet.jp^
-||trk.beauty-tokyo.jp^
-||trk.datsumou-navi.jp^
-||*.ad.jp^
-||*.beauty-tracker.jp^
-||*.biyou-life.jp^
-||*.diet-sensei.jp^
-||*.mb.softbank.jp^
-||*.service-introduction.com^
-||sb-atom-ct.service-info.jp/ab/*
+! SoftBank系広告・トラッキング
+||ad.jp^$document
+||ad.kc-me.jp^$document
+||ad.maist.jp^$document
+||ads.softbank.jp^$document
+||beauty-tracker.jp^$document
+||beauty.navi-ad.jp^$document
+||click.sukkiri-diet.jp^$document
+||sb-ad.jp^$document
+||sb-atom-ct.service-info.jp^$document
+||sb-cwpbk.service-introduction.com^$document
+||service-info.jp^$document
+||service-introduction.com^$document
+||track.softbank.jp^$document
+||tracking.meneki-diet.jp^$document
+||trk.beauty-tokyo.jp^$document
+||trk.datsumou-navi.jp^$document
+||*.ad.jp^$document
+||*.beauty-tracker.jp^$document
+||*.biyou-life.jp^$document
+||*.diet-sensei.jp^$document
+||*.mb.softbank.jp^$document
+||*.service-introduction.com^$document
+||sb-atom-ct.service-info.jp/ab/*$document
 
-! 🛡 harmonious-cosme.online 系ブロック
-||harmonious-cosme.online^
-||*.harmonious-cosme.online^
+! harmonious-cosme.online 系ブロック
+||harmonious-cosme.online^$document
+||*.harmonious-cosme.online^$document
 
-! 💣 よくある詐欺系ドメイン群（任意で追加）
-||cosme-career.click^
-||beauty-official.shop^
-||japan-cosme.center^
-||skin-white.shop^
-||clear-skin.care^
-||shimi-care.jp^
-||cosme-rapid.shop^
-||health-safe.info^
-||promotion-lab.online^
+! よくある詐欺系ドメイン群
+||cosme-career.click^$document
+||beauty-official.shop^$document
+||japan-cosme.center^$document
+||skin-white.shop^$document
+||clear-skin.care^$document
+||shimi-care.jp^$document
+||cosme-rapid.shop^$document
+||health-safe.info^$document
+||promotion-lab.online^$document
 
-! 🚫 URLに特定の文字列を含む怪しいリダイレクト
-||*rapidbot_hse_tkpn_hklfn_*^
-||*shimi*rapidbot*^
+! URLに特定の文字列を含む怪しいリダイレクト
+||*rapidbot_hse_tkpn_hklfn_*^$document
+||*shimi*rapidbot*^$document
 
-||suntory-kenko.com^
+||suntory-kenko.com^$document
 
-||api.affiliations.site/ad/pixelfile.html$important
-||affiliations.site^$3p
-||a.r10.to^
+! アフィリエイト系
+||api.affiliations.site/ad/pixelfile.html^$document
+||affiliations.site^$document
+||a.r10.to^$document
 ||japannewsnavi.com^$document
 
+
 ! Block SHEIN
-||shein.com^
-||*.shein.com^
+||shein.com^$document
+||*.shein.com^$document
 
 ! Block TEMU
-||temu.com^
-||*.temu.com^
+||temu.com^$document
+||*.temu.com^$document
+
 
 ! 🌐 一般的なディープリンク処理のブロック
-||approach.yahoo.co.jp^
-||app.adjust.com^
-||branch.io^
-||go.onelink.me^
-||deeplink.me^
-||smarturl.it^
-||lnk.to^
-||redir.adgtx.com^
-||click.appsflyer.com^
-||api.branch.io^
-||r.miniapps.cn^
-||play.google.com/store/apps/details^
-||apps.apple.com^
+||approach.yahoo.co.jp^$document
+||app.adjust.com^$document
+||branch.io^$document
+||go.onelink.me^$document
+||deeplink.me^$document
+||smarturl.it^$document
+||lnk.to^$document
+||redir.adgtx.com^$document
+||click.appsflyer.com^$document
+||api.branch.io^$document
+||r.miniapps.cn^$document
+||play.google.com/store/apps/details^$document
+||apps.apple.com^$document
+
 
 ||pp.d2-apps.net^
 ||d2-apps.net^
