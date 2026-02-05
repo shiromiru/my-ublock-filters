@@ -440,24 +440,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||mythis.shop^$document
 ||sb.*.co.jp^$document
 
-removeparam=utm_source
-removeparam=utm_medium
-removeparam=utm_campaign
-removeparam=utm_term
-removeparam=utm_content
-removeparam=gclid
-removeparam=fbclid
-removeparam=yclid
-removeparam=mc_cid
-removeparam=mc_eid
-removeparam=advc
-removeparam=dmai
-removeparam=argument
-removeparam=lpt
-removeparam=ref
-removeparam=referrer
-removeparam=tracking_id
-removeparam=trackingid
+
 
 ||amazon.co.jp^$removeparam=th,ref,psc,tag,linkCode,creativeASIN,adid,advc,dmai,lpt,argument
 ||s8affi.net^$document
