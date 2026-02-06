@@ -52,9 +52,6 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||impactradius.com^$document
 ||r10.to^$document
 
-! 🔒utmなどのトラッキングパラメータ
-||*$removeparam=tag
-||*$removeparam=ref
 
 ! 🚫特定サイトのドメインブロック（広告・中華・ペイ系）
 ||paypay.ne.jp^$document
@@ -192,12 +189,6 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||tracking.meneki-diet.jp^$document
 ||trk.beauty-tokyo.jp^$document
 ||trk.datsumou-navi.jp^$document
-||*.ad.jp^$document
-||*.beauty-tracker.jp^$document
-||*.biyou-life.jp^$document
-||*.diet-sensei.jp^$document
-||*.mb.softbank.jp^$document
-||*.service-introduction.com^$document
 ||sb-atom-ct.service-info.jp/ab/*$document
 
 ! harmonious-cosme.online 系ブロック
@@ -230,11 +221,11 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 
 ! Block SHEIN
 ||shein.com^$document
-||*.shein.com^$document
+
 
 ! Block TEMU
 ||temu.com^$document
-||*.temu.com^$document
+
 
 
 ! 🌐 一般的なディープリンク処理のブロック
@@ -308,10 +299,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||matome-app.com^$document
 ||affi-note.com^$document
 
-||*-ranking.com^$document
-||*-review.com^$document
-||*-ranking.jp^$document
-||*-review.jp^$document
+
 ||app*-ranking.*^$document
 ||app*-review.*^$document
 
@@ -412,22 +400,18 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||katemita.com^$document
 ||ameblo.jp/honeyhoneydip/^$document
 ||jppardoshop.com^$document
-||*-beauty.online^$document
 ||cp.manara.jp^$document
 ! 個別ドメイン（ページ自体を遮断）
 ||8.bologna-beauty.site^$document
 ||abcclinicad.com^$document
 ||www5.tmn-anshin.co.jp^$document
 
-! 同系統をまとめてブロック（慎重に使用）
-||*beauty.site^$document
-||*clinicad.com^$document
+
 
 ! LP構造・広告用パス名ベース（補助）
 
-||*/landing/*$document
+
 ||naitouuu.site^$document
-||*.naitouuu.site^$document
 ||ziilyzb.com^$document
 ||heiheih.com^$document
 ||approach.yahoo.co.jp^$document
