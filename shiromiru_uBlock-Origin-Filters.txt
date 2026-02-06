@@ -193,7 +193,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 
 ! harmonious-cosme.online 系ブロック
 ||harmonious-cosme.online^$document
-||*.harmonious-cosme.online^$document
+
 
 ! よくある詐欺系ドメイン群
 ||cosme-career.click^$document
@@ -207,8 +207,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 ||promotion-lab.online^$document
 
 ! URLに特定の文字列を含む怪しいリダイレクト
-||*rapidbot_hse_tkpn_hklfn_*^$document
-||*shimi*rapidbot*^$document
+
 
 ||suntory-kenko.com^$document
 
