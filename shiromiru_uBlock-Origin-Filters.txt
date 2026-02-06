@@ -458,7 +458,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 
 ||dpoint.docomo.ne.jp^$removeparam=utm_source,utm_medium,utm_campaign,banner_id
 
-*$removeparam=utm_source,utm_medium,utm_campaign,utm_content,utm_id,ttclid,placement,opt_id,lpt,ad_id,adset_id
-||amazon.co.jp^$removeparam=th,ref,psc,tag,linkCode,creativeASIN,adid,advc,dmai,lpt,argument
+||*^$removeparam=utm_source,utm_medium,utm_campaign,utm_content,utm_id,ttclid,placement,opt_id,lpt,ad_id,adset_id
+||amazon.co.jp^$removeparam=th,ref,psc,tag,linkCode,creativeASIN,adid,advc,dmai,lpt
 
 
