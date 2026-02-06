@@ -439,7 +439,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||news.livedoor.com/article/$document
 ||mythis.shop^$document
 ||sb.*.co.jp^$document
-
+||okomedaidaisuki.com^$document
 
 
 
