@@ -448,8 +448,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||zonrate.com^$document
 
 ||dpoint.docomo.ne.jp^$removeparam=utm_source,utm_medium,utm_campaign,banner_id
-||*affi*^$document
-||*affiliate*^$document
+
 
 
 
