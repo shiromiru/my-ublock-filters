@@ -428,8 +428,13 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||s8affi.net^$document
 ||ziilyzb.com^$document
 ||zonrate.com^$document
+! dポイント追跡パラメータ削除（PC/スマホ両対応）
 
-||dpoint.docomo.ne.jp^$removeparam=utm_source,utm_medium,utm_campaign,banner_id
+||dpoint.docomo.ne.jp^$removeparam=utm_source
+||dpoint.docomo.ne.jp^$removeparam=utm_medium
+||dpoint.docomo.ne.jp^$removeparam=utm_campaign
+||dpoint.docomo.ne.jp^$removeparam=banner_id
+
 
 
 
