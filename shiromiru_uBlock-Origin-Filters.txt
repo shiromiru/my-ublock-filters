@@ -450,10 +450,6 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||dpoint.docomo.ne.jp^$removeparam=utm_source,utm_medium,utm_campaign,banner_id
 ||*affi*^$document
 ||*affiliate*^$document
-||dpoint.docomo.ne.jp^$removeparam=banner_id
 
-
-
-||dpoint.docomo.ne.jp^$removeparam=utm_source,utm_medium,utm_campaign,banner_id
 
 
