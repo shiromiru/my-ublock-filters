@@ -437,6 +437,75 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 
 ||dpoint.docomo.ne.jp^$removeparam=utm_source,utm_medium,utm_campaign,banner_id
 
+
+
+||news.yahoo.co.jp/expert/$document
+
+! ===== 追加ブロック（既存リスト重複除外済み）=====
+
+! ===== ゲーム攻略 =====
+||getnine.co.jp^$document
+||mh-wilds.jp^$document
+||shinnyu1-guide.com^$document
+
+! ===== SNS =====
+||twitter.com^$document
+||facebook.com^$document
+
+! ===== ニュース・生活 =====
+||kuruma-news.jp^$document
+||bestcarweb.jp^$document
+||trafficnews.jp^$document
+||oricon.co.jp^$document
+||netatopi.jp^$document
+||nlab.itmedia.co.jp^$document
+||aumo.jp^$document
+||biglobe.ne.jp^$document
+
+! ===== Yahoo / LY =====
+||carview.co.jp^$document
+||lycorp.co.jp^$document
+
+! ===== チケット・食品 =====
+||pia.co.jp^$document
+||pia.jp^$document
+||cake.jp^$document
+||cake-news.com^$document
+||mobilico.jp^$document
+||poke-memo.com^$document
+||pokemongo-get.com^$document
+
+! ===== ブログ・PR =====
+||enfant.media^$document
+||kokokki.com^$document
+||mise-repo.com^$document
+||expat-family-life.com^$document
+||pr-free.jp^$document
+||munezo-life.com^$document
+||fukubukurohunter29.com^$document
+||higashinada-journal.com^$document
+||alco-uj.com^$document
+||matsukiyo.cafe^$document
+||soctoc.jp^$document
+||numa2.jp^$document
+||zimosh.com^$document
+
+! ===== その他 =====
+||sec-mynote.com^$document
+||reinforz.co.jp^$document
+||goguynet.jp^$document
+||liverny.jp^$document
+||shachirin.com^$document
+||tokotokoakemin.com^$document
+||tsuhan-seikatu.com^$document
+||t-1.co.jp^$document
+||ri-koko.com^$document
+||levecolle.co.jp^$document
+||sora-no-note.com^$document
+||yamachi-choose.com^$document
+||national-mart.jp^$document
+||kitchen-hasegawa.com^$document
+
 ! AdGuard用：Amazon・dpoint.docomo.ne.jp 追跡パラメータ削除ルール
 ||dpoint.docomo.ne.jp^$removequeryparam=utm_source
 ||dpoint.docomo.ne.jp^$removequeryparam=utm_medium
@@ -454,7 +523,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||amazon.co.jp^$removequeryparam=ascsubtag
 ||amazon.co.jp^$removequeryparam=th
 ||amazon.co.jp^$removequeryparam=psc
-
-||news.yahoo.co.jp/expert/$document
-
 
