@@ -528,3 +528,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||amazon.co.jp^$removequeryparam=th
 ||amazon.co.jp^$removequeryparam=psc
 
+*$removeparam=da_uid
