@@ -1,2 +1,2 @@
-! これは私のuBlock Originフィルターです
+! これは自分用のuBlock Originフィルターです
 
