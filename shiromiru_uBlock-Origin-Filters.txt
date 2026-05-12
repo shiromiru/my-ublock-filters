@@ -414,7 +414,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||ziilyzb.com^$document
 ||heiheih.com^$document
 ||approach.yahoo.co.jp^$document
-/\/(rd|redirect|get_deferred)\//^$document
+||/\/(rd|redirect|get_deferred)\//^$document
 ||news.livedoor.com/topics^$document
 ||news.ameba.jp^$document
 ||studyhacker.net^$document
@@ -516,17 +516,7 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||dpoint.docomo.ne.jp^$removequeryparam=utm_campaign
 ||dpoint.docomo.ne.jp^$removequeryparam=banner_id
 
-||amazon.co.jp^$removequeryparam=tag
-||amazon.co.jp^$removequeryparam=ref
-||amazon.co.jp^$removequeryparam=linkCode
-||amazon.co.jp^$removequeryparam=creative
-||amazon.co.jp^$removequeryparam=creativeASIN
-||amazon.co.jp^$removequeryparam=adid
-||amazon.co.jp^$removequeryparam=advc
-||amazon.co.jp^$removequeryparam=dmai
-||amazon.co.jp^$removequeryparam=ascsubtag
-||amazon.co.jp^$removequeryparam=th
-||amazon.co.jp^$removequeryparam=psc
+
 
 *$removeparam=da_uid
 
