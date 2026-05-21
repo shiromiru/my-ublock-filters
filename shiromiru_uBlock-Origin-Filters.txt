@@ -521,3 +521,9 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 *$removeparam=da_uid
 
 ||cutt.ly^$document
+
+||cp.^$document
+||track.^$document
+||trk.^$document
+||click.^$document
+||ad.^$document
