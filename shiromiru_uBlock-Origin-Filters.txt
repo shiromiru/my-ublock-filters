@@ -527,3 +527,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||trk.^$document
 ||click.^$document
 ||ad.^$document
+||bakubijodiary.com^$document
