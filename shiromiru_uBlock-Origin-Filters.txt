@@ -528,3 +528,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||click.^$document
 ||ad.^$document
 ||bakubijodiary.com^$document
+||radiko.jp/rg/user-survey/$document
