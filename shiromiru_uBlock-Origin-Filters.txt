@@ -531,3 +531,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||radiko.jp/rg/user-survey/$document
 ||25.turin-serum.site^$document
 ||sb.quarzelynthix4.com^$document
+||*.neofirst.co.jp^$document
