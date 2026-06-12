@@ -532,3 +532,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||25.turin-serum.site^$document
 ||sb.quarzelynthix4.com^$document
 ||*.neofirst.co.jp^$document
+||www.smtb.jp^$document
