@@ -258,7 +258,7 @@ google.com/##.XVMlrc > div:nth-child(1) > div:nth-child(1)
 
 ||mineo.jp/syokai/?jrp=syokai&kyb=*^$document
 
-||nhk.or.jp^$document
+
 ||nhk-ondemand.jp^$document
 ||web.nhk^$document
 ||nhk-ep.co.jp^$document
