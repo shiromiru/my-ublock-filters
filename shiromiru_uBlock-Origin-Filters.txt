@@ -533,3 +533,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||*.neofirst.co.jp^$document
 ||www.smtb.jp^$document
 ||ksk.t.zucks.net^$document
+||udonyorisobagasuki.com^$document
