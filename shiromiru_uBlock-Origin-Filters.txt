@@ -535,3 +535,6 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||ksk.t.zucks.net^$document
 ||udonyorisobagasuki.com^$document
 ||d3n320um9brmb8.cloudfront.net^$document
+||*.pangleglobal.com^$document
+||*.pangle-ads.com^$document
+||*.sgsnssdk.com^$document
