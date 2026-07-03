@@ -542,3 +542,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||mowell.tech^$document
 ||taikenarqon.info^$document
 ||sp.nova-ad.net^$document
+||sugotoku.docomo.ne.jp^$document
