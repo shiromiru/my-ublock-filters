@@ -546,3 +546,5 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||anshin-security.docomo.ne.jp^$document
 ||service.smt.docomo.ne.jp/site/special/^$document
 ||lp.goguynet.jp^$document
+||ac.lifegood-beauty.tokyo^$document
+||cc.epicu.tokyo^$document
