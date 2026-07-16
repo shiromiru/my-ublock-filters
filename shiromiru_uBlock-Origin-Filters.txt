@@ -462,7 +462,6 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||biglobe.ne.jp^$document
 
 ! ===== Yahoo / LY =====
-||carview.co.jp^$document
 ||lycorp.co.jp^$document
 
 ! ===== チケット・食品 =====
