@@ -549,3 +549,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||ac.lifegood-beauty.tokyo^$document
 ||cc.epicu.tokyo^$document
 ||hot-discovery.com^$document
+||cafersw.com^$document
