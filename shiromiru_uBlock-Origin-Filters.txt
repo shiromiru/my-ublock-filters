@@ -550,3 +550,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||cc.epicu.tokyo^$document
 ||hot-discovery.com^$document
 ||cafersw.com^$document
+||suiseikai-mens-form.com^$document
