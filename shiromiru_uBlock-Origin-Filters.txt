@@ -554,3 +554,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||company.kyoto-life.co.jp^$document
 ||beaute-palette.org^$document
 ||sirason.com^$document
+||itouuu.site^$document
