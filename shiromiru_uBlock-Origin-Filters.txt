@@ -1,4 +1,4 @@
-! Title: 💎ZeroLogic Shield by UNKNOWN
+! Title: ZeroLogic Shield by UNKNOWN
 ! 📌記事内キーワード非表示（Feedlyなどで使う）
 feedly.com##article:has-text(/Amazon.com/)
 feedly.com##article:has-text(/フジテレビ/)
@@ -555,3 +555,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||beaute-palette.org^$document
 ||sirason.com^$document
 ||itouuu.site^$document
+||jp.leaveshop.com^$document
