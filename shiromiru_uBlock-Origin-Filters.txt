@@ -556,3 +556,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||sirason.com^$document
 ||itouuu.site^$document
 ||jp.leaveshop.com^$document
+||komatta-fudousan.com^$document
