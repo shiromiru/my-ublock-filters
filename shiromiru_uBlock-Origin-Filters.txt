@@ -558,3 +558,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||jp.leaveshop.com^$document
 ||komatta-fudousan.com^$document
 ||guzfival.com^$document
+||shadowverse-wb.go.link^$document
