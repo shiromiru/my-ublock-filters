@@ -561,3 +561,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||shadowverse-wb.go.link^$document
 ||matsui.co.jp^$document
 ||karireru.com^$document
+||yasesugi.store^$document
