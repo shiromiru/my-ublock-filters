@@ -564,3 +564,4 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||news.line.me^$document
 ||line.me^$document
 ||lin.ee^$document
+||news.line.me^$document
