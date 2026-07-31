@@ -491,7 +491,6 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ! ===== その他 =====
 ||sec-mynote.com^$document
 ||reinforz.co.jp^$document
-||goguynet.jp^$document
 ||liverny.jp^$document
 ||shachirin.com^$document
 ||tokotokoakemin.com^$document
