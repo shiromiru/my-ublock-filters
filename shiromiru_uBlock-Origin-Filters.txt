@@ -561,3 +561,6 @@ youtube.com##ytd-rich-shelf-renderer:has-text(はいじぃ迷作劇場)
 ||matsui.co.jp^$document
 ||karireru.com^$document
 ||yasesugi.store^$document
+||news.line.me^$document
+||line.me^$document
+||lin.ee^$document
