@@ -1,10 +1,9 @@
 ! Title: ZeroLogic Shield by UNKNOWN
 
 ! 🔒Amazon・楽天・Yahoo等のアフィ・トラッキング系
+
 ||amazon.*^*ascsubtag=*^$document
 ||amazon.*^*linkCode=*^$document
-
-
 ||rakuten.co.jp^*tag=*^$document
 ||rakuten.co.jp^*scid=*^$document
 ||rakuten.co.jp^*afl=*^$document
@@ -121,10 +120,10 @@
 ! ケーズデンキ（アフィ少ないけど一応）
 ||ksdenki.com^*ad=*^$document
 
+
 ! 🔒ドコモ系アフィリエイト・トラッキング系
 
 ||nttdocomo.*^*ad_id=*^$document
-
 ||nttdocomo.*^*affiliate=*^$document
 ||docomo.ne.jp^*ad_id=*^$document
 
@@ -148,7 +147,7 @@
 ||oisix.com^*utm_*^$document
 ||oisix.com^*yclid=*^$document
 ||oisix.com^*gclid=*^$document
-||hb.afl.rakuten.co.jp^$domain=oisix.com
+||hb.afl.rakuten.co.jp^$document
 ||click.linksynergy.com^$document
 ||af.moshimo.com^$document
 ||valuecommerce.com^$document
@@ -283,7 +282,6 @@
 ||app*-review.*^$document
 
 
-
 ||smartnews.com^$document
 ||l.smartnews.com^$document
 ||sizenshokken.co.jp^$document
@@ -317,6 +315,8 @@
 ||ameblo.jp/honeyhoneydip/^$document
 ||jppardoshop.com^$document
 ||cp.manara.jp^$document
+
+
 ! 個別ドメイン（ページ自体を遮断）
 ||8.bologna-beauty.site^$document
 ||abcclinicad.com^$document
@@ -482,3 +482,4 @@
 ||line.me^$document
 ||lin.ee^$document
 ||news.line.me^$document
+||hadanara.com^$document
