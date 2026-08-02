@@ -1,2 +1,2 @@
-自分用のuBlock Originフィルター
+! 自分用uBlock Originフィルター
 
