@@ -483,3 +483,4 @@
 ||lin.ee^$document
 ||news.line.me^$document
 ||hadanara.com^$document
+||strawberrypotato.click^$document
