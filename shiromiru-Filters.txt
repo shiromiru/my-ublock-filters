@@ -484,3 +484,4 @@
 ||news.line.me^$document
 ||hadanara.com^$document
 ||strawberrypotato.click^$document
+||animestore.docomo.ne.jp^$document
