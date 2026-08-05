@@ -486,3 +486,5 @@
 ||strawberrypotato.click^$document
 ||animestore.docomo.ne.jp^$document
 ||ahamo.com/special/^$document
+||finance.docomo.ne.jp^$document
+||service.smt.docomo.ne.jp/site/special/^$document
