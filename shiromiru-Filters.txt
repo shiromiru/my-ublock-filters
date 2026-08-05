@@ -485,3 +485,4 @@
 ||hadanara.com^$document
 ||strawberrypotato.click^$document
 ||animestore.docomo.ne.jp^$document
+||ahamo.com/special/^$document
