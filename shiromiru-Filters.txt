@@ -488,3 +488,5 @@
 ||ahamo.com/special/^$document
 ||finance.docomo.ne.jp^$document
 ||service.smt.docomo.ne.jp/site/special/^$document
+||dhits.docomo.ne.jp^$document
+||lemino.docomo.ne.jp/ft/^$document
