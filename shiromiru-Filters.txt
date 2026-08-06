@@ -485,7 +485,7 @@
 ||hadanara.com^$document
 ||strawberrypotato.click^$document
 ||animestore.docomo.ne.jp^$document
-||ahamo.com/special/^$document
+||ahamo.com^$document
 ||finance.docomo.ne.jp^$document
 ||dhits.docomo.ne.jp^$document
 ||service.smt.docomo.ne.jp^$document
