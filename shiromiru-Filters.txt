@@ -487,6 +487,6 @@
 ||animestore.docomo.ne.jp^$document
 ||ahamo.com/special/^$document
 ||finance.docomo.ne.jp^$document
-||service.smt.docomo.ne.jp/site/special/^$document
 ||dhits.docomo.ne.jp^$document
-||lemino.docomo.ne.jp/ft/^$document
+||service.smt.docomo.ne.jp^$document
+||lemino.docomo.ne.jp^$document
