@@ -490,3 +490,4 @@
 ||dhits.docomo.ne.jp^$document
 ||service.smt.docomo.ne.jp^$document
 ||lemino.docomo.ne.jp^$document
+||docomo.ne.jp/special_contents/$document
